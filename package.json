@@ -1,12 +1,12 @@
 {
-  "name": "js-team-project",
+  "name": "js-team-project-find-events",
   "version": "1.1.0",
   "description": "",
   "main": "index.js",
-  "homepage": "https://kylory.github.io/js-team-project",
+  "homepage": "https://AnnaChebrova.github.io/js-team-project-find-events",
   "scripts": {
     "dev": "parcel src/*.html",
-    "build": "parcel build src/*.html --public-url /js-team-project/"
+    "build": "parcel build src/*.html --public-url /js-team-project-find-events/"
   },
   "repository": {
     "type": "git",
